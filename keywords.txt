@@ -10,10 +10,10 @@
 # Methods and Functions (KEYWORD2)
 #######################################
 
-readVCC
-readVRef
-resolutionBits
-resolutionBitsResult
+readVCC	KEYWORD2
+readVRef	KEYWORD2
+resolutionBits	KEYWORD2
+resolutionBitsResult	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
