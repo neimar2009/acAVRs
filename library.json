@@ -1,0 +1,16 @@
+{
+  "name": "acAVRs",
+  "keywords": "Uncategorized",
+  "description": "Biblioteca para conter métodos e funções de baixo nível.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/neimar2009/acAVRs"
+  },
+  "version": "0.0.1",
+  "frameworks": ["arduino", "C++", "C"],
+  "platforms": [
+    "Arduino",
+    "avr"
+  ]
+}
